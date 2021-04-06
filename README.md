@@ -35,7 +35,7 @@ My name is Aman Chauhan and I am a programmer and web developer from Delhi, Indi
 </p>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&theme=dark&hide_langs_below=1">-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&layout=compact&theme=dark">
 ---
 ### Github stats
 
