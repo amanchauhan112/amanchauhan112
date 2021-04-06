@@ -34,7 +34,7 @@ My name is Aman Chauhan and I am a programmer and web developer from Delhi, Indi
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-###<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&theme=dark&hide_langs_below=1">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&theme=dark&hide_langs_below=1">-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyaratra&layout=compact&theme=radical">
 ---
 ### Github stats
