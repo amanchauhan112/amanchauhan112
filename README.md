@@ -43,9 +43,8 @@ My name is Aman Chauhan and I am a programmer and web developer from Delhi, Indi
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchauhan112&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 ---
-### Send me a message!
+### 📫 How to reach me
 
- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
  <p>
   <a href="mailto:amanchauhan2801@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
