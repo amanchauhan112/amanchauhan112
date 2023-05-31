@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there and welcome to my GitHub page 👋
 
-My name is Aman Chauhan and I am a programmer and web developer from Delhi, India. I do a lot of stuff, and some of them you may even find interesting. 🤞
+My name is Aman Chauhan and I am a Software Developer that uses MERN Stack . I am from Delhi, India.
 
 ---
 ### What do I do?
