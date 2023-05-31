@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Aman Chauhan and I am a Software Developer that uses MERN Stack . I am from Delhi, India.
 
 ---
-### What do I do?
+### Technical Skills
 
 <p>
 <!--   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> -->
