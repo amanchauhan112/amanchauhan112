@@ -39,9 +39,9 @@ My name is Aman Chauhan and I am a Software Developer that uses MERN Stack . I a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchauhan112&layout=compact&theme=dark">
 
 ---
-### Github stats
+<!-- ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchauhan112&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchauhan112&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> -->
 
 ---
 ### 📫 How to reach me
